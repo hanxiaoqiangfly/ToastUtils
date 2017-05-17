@@ -12,5 +12,5 @@
 #Step 2. Add the dependency
 
 	dependencies {
-	        compile 'com.github.hanxiaoqiangfly:ToastUtils:V1.0.2'
+	         compile 'com.github.hanxiaoqiangfly:ToastUtils:1.0.4'
 	}
